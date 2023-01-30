@@ -175,7 +175,7 @@
     </tr>
   </tbody></table>
   <p align="left">&nbsp;</p>
-  <div align="center"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="EMENTA.pdf" target="_blank">Ementa 2023</a></font></strong></div>
+  <div align="center"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="ementa.pdf" target="_blank">Ementa 2023</a></font></strong></div>
 </div>
 
 </body></html>
