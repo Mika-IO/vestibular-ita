@@ -1,4 +1,7 @@
-17 + 12 + 19
+Semana: 1 ponto por dia
+
+Sábados: Grammar in Use Intermediate Student's Book with Answers
+Domingos: Português
 
 FÍSICA
     1. Noções sobre medidas físicas: 
@@ -363,7 +366,6 @@ PORTUGUÊS
 
 
 INGLÊS
-    Grammar in Use Intermediate Student's Book with Answers
     O exame de Inglês consistirá em uma prova com 12 questões, visando à avaliação do candidato
     em sua competência para compreender textos autênticos em língua inglesa. As questões, todas de
     múltipla escolha, avaliarão a capacidade do candidato de predizer conteúdos, inferir significados,
