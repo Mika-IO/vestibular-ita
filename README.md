@@ -170,15 +170,15 @@ Todo conteúdo para o ITA em um só lugar
 
 1.  [Física](#física)
     1. [Noções de medida](#Noçõesdemedida)
-       1. [Algarismos significativos.](#Algarismossignificativos)
-       2. [Conceito de medida, erro e incerteza.](#Conceitodemedidaerroeincerteza)
-       3. [Análise Dimensional.](#)
-       4. [Grandezas escalares e vetoriais.](#)
-       5. [Soma e subtração de vetores.](#)
-       6. [Escalas e gráficos.](#)
-       7. [Funções.](#)
-       8. [Representação gráfica de funções.](#)
-       9. [Sistema Internacional de Unidades (SI).](#SistemaInternacionaldeUnidades)
+       1. [Algarismos significativos](#Algarismossignificativos)
+       2. [Conceito de medida, erro e incerteza](#Conceitodemedidaerroeincerteza)
+       3. [Análise Dimensional](#AnáliseDimensional)
+       4. [Grandezas escalares e vetoriais](#Grandezasescalaresevetoriais)
+       5. [Soma e subtração de vetores](#Somaesubtraçãodevetores)
+       6. [Escalas e gráficos](#Escalasegráficos)
+       7. [Funções](#Funções)
+       8. [Representação gráfica de funções](#Representaçãográficadefunções)
+       9. [Sistema Internacional de Unidades (SI)](#SistemaInternacionaldeUnidades)
 2.  [Matemática](#matemática)
 3.  [Química](#química)
 4.  [Português](#português)
@@ -190,23 +190,23 @@ Todo conteúdo para o ITA em um só lugar
 
 ## Noções sobre medidas físicas:
 
-### Algarismos significativos.
+### Algarismos significativos
 
-### Conceito de medida, erro e incerteza.
+### Conceito de medida, erro e incerteza
 
-### Análise Dimensional.
+### Análise Dimensional
 
-### Grandezas escalares e vetoriais.
+### Grandezas escalares e vetoriais
 
-### Soma e subtração de vetores.
+### Soma e subtração de vetores
 
-### Escalas e gráficos.
+### Escalas e gráficos
 
-### Funções.
+### Funções
 
-### Representação gráfica de funções.
+### Representação gráfica de funções
 
-### Sistema Internacional de Unidades (SI).
+### Sistema Internacional de Unidades (SI)
 
 ## Noções de medida
 
