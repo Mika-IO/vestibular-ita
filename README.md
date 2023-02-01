@@ -178,7 +178,7 @@ Todo conteúdo para o ITA em um só lugar
        6. [Escalas e gráficos](#Escalasegráficos)
        7. [Funções](#Funções)
        8. [Representação gráfica de funções](#Representaçãográficadefunções)
-       9. [Sistema Internacional de Unidades (SI)](#SistemaInternacionaldeUnidades)
+       9. [Sistema Internacional de Unidades SI](#SistemaInternacionaldeUnidades)
 2.  [Matemática](#matemática)
 3.  [Química](#química)
 4.  [Português](#português)
@@ -206,7 +206,7 @@ Todo conteúdo para o ITA em um só lugar
 
 ### Representação gráfica de funções
 
-### Sistema Internacional de Unidades (SI)
+### Sistema Internacional de Unidades SI
 
 ## Noções de medida
 
