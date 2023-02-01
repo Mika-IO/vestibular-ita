@@ -173,7 +173,7 @@ Todo conteúdo para o ITA em um só lugar
        1. [Algarismos significativos](#algarismos-significativos)
        2. [Conceito de medida, erro e incerteza](#conceito-de-medida-erro-e-incerteza)
        3. [Análise Dimensional](#análise-dimensional)
-       4. [Grandezas escalares e vetoriais](#grandezas-escalarese-vetoriais)
+       4. [Grandezas escalares e vetoriais](#grandezas-escalares-e-vetoriais)
        5. [Soma e subtração de vetores](#soma-e-subtração-de-vetores)
        6. [Escalas e gráficos](#escalas-e-gráficos)
        7. [Funções](#funções)
